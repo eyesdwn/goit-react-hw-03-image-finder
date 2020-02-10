@@ -85,8 +85,8 @@ export default class App extends Component {
 
         return (
             <div className={styles.App}>
-                {isLoading && <Loader />}
                 <Searchbar onSubmit={this.handleSubmit} />
+                {isLoading && <Loader />}
                 {isModalOpen && <Modal imageId={imageId} images={images} onCloseModal={this.handleCloseModal} />}
                 <ImageGallery items={images} openModal={this.handleOpenModal} />
                 {error && <ErrorNotification text={error.message} />}

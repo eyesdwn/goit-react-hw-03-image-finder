@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b58151b5cabaecc34435391ce48464c3",
+    "revision": "d64797cda66f32dad126367a9a46e318",
     "url": "/goit-react-hw-03-image-finder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-03-image-finder/static/css/2.ccd4207b.chunk.css"
   },
   {
-    "revision": "587aae86416a8cc2497e",
+    "revision": "a0bfbc6e3853d0f83201",
     "url": "/goit-react-hw-03-image-finder/static/css/main.fd6ad13b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-03-image-finder/static/js/2.0aaf9bb9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "587aae86416a8cc2497e",
-    "url": "/goit-react-hw-03-image-finder/static/js/main.724558af.chunk.js"
+    "revision": "a0bfbc6e3853d0f83201",
+    "url": "/goit-react-hw-03-image-finder/static/js/main.8b3224e7.chunk.js"
   },
   {
     "revision": "aa5f66c794a5306fc6ea",
